@@ -1,0 +1,47 @@
+Resume
+JOSE CHRISTOPHER S
+SOFTWARE DEVELOPER
+
+CONTACT
+Phone: +91 9080925088
+Email: christopher.jose468@gmail.com
+Location: Kanyakumari
+
+SKILLS
+Flutter
+Android Jet Pack Compose
+Node.js
+Express
+Dart
+Kotlin
+JavaScript
+AWS (Lambda, API Gateway, SNS, S3)
+MongoDB
+Git
+EDUCATION
+JEPPIAAR ENGINEERING COLLEGE (CHENNAI)
+BE - MECH
+CGPA: 7.1
+
+LANGUAGES
+English
+Tamil
+WORK EXPERIENCE (1 YEAR 9 MONTHS)
+Hutech Solutions (Bangalore)
+Technology enabled fleet management system (Maxdrive, Nigeria)
+Associated and developed the Vehicle Activation Management System (VAMS) service for Maxdrive, a leading mobility-tech platform in Africa.
+Developed and designed the user experience for activating vehicles with prospects.
+Set up MongoDB triggers to automatically update activation status.
+Leveraged AWS Lambda functions to handle status updates.
+Ensured real-time synchronization and updating of activation status in MongoDB documents.
+Technologies utilized: Flutter, Dart, AWS Lambda, MongoDB
+Volumetric Dimension Determination for Packaging (SMCS)
+Developed a Flutter mobile app to determine optimal package dimensions using image input, converting images to base64, and integrating with an API.
+Implemented a backend using AWS API Gateway and Lambda to process images, interact with the Gemini API, and manage image storage in S3, with metadata and results stored in MongoDB.
+Enabled the app to display dimension results and images, with functionality for users to edit dimensions as needed, enhancing user interaction and accuracy.
+Technologies utilized: Flutter, Dart, AWS ApiGateway, AWS Lambda, Node.js, JavaScript, MongoDB
+PROFILE
+Passionate Software Developer with experience in creating mobile applications using Flutter and a solid understanding of Kotlin Android Jetpack Compose. Proficient in building REST APIs with Node.js, and skilled at utilizing AWS services such as Lambda, API Gateway, SNS, and S3. Experienced in working with MongoDB databases. Highly effective at problem-solving and consistently delivering high-quality applications.
+Links
+LinkedIn: https://www.linkedin.com/in/jose-christopher-s-87aa10132/
+GitHub: https://github.com/jose9395
